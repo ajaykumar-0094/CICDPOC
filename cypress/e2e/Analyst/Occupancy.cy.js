@@ -1,5 +1,5 @@
 const selectors = {
-    title: `.title-fontt`,
+    title: `.title-font`,
 }
 
 const strings = {
