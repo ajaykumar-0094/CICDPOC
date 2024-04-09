@@ -12,7 +12,6 @@ beforeEach(() => {
     cy.login()
         .visit(strings.url)
         .wait(`@refresh`);
-
 });
 
 describe('Admin > Map> Occupancy', () => {
